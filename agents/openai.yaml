@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medical Manuscript Pipeline"
+  short_description: "Stage-gated medical manuscript workflow"
+  default_prompt: "Use $medical-manuscript-pipeline to manage this medical manuscript through evidence, logic, author-voice, and submission gates."
