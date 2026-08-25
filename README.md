@@ -4,7 +4,6 @@
 
 A stage-gated lifecycle controller for medical manuscripts. It coordinates evidence, analysis, argument structure, author decisions, writing voice, journal adaptation, and submission readiness without turning the paper into an audit report.
 
-This Skill was distilled from the full development history of an LGALS8/preeclampsia project that moved through public transcriptomic analysis, local RT-qPCR, clinical-data correction, evidence reframing, manuscript revision, AI-style cleanup, journal adaptation, and final document QA. The central lesson was simple: most avoidable rework happened when writing began before the data source, analysis, evidence ceiling, or manuscript logic had been frozen.
 
 ## Why this Skill exists
 
