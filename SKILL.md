@@ -1,11 +1,11 @@
 ---
 name: medical-manuscript-pipeline
-description: Manage an end-to-end medical manuscript project with mandatory stage gates, separate evidence/author/submission ledgers, logic mapping, Clinical Investigator Voice, post-freeze humanization, and study-type branches. Use for a complete manuscript lifecycle, a multi-stage manuscript rescue, stage-gate audit, or submission-readiness workflow. Do not use for a single paragraph edit, one citation lookup, standalone analysis, generic humanization, or one-off document formatting.
+description: Manage an end-to-end medical manuscript with nine scientific stage gates that reduce AI-patterned structure, stitched logic, audit prose, and generic wording while producing coherent, author-consistent Clinical Investigator Voice. Use for a complete manuscript lifecycle, multi-stage manuscript rescue, stage-gate audit, or submission-readiness workflow. Do not use for a single paragraph edit, one citation lookup, standalone analysis, generic humanization, or one-off document formatting.
 ---
 
 # Medical Manuscript Pipeline
 
-Treat the manuscript as a clinical research argument, not an audit report. Keep the backend traceable and the reader-facing prose direct, medically grounded, and proportionate to the evidence.
+The primary aim is genuinely human-like medical manuscript writing achieved through correct process control. Treat the manuscript as a clinical research argument, not an audit report or a collection of AI-generated passages. Use the gates to prevent template-driven structure, stitched logic, repeated disclaimers, generic wording, and late cosmetic “de-AI” edits. Keep the backend traceable and the reader-facing prose direct, medically grounded, author-consistent, and proportionate to the evidence. Human-like does not mean deliberate errors, fabricated uncertainty, or AI-detector evasion.
 
 ## Start
 
