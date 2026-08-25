@@ -1,8 +1,10 @@
 # Medical Manuscript Pipeline
 
+> **Core purpose:** Use nine-stage scientific control to prevent AI-patterned structure, stitched-together logic, audit-style prose, and generic wording, so the final paper reads as coherent, author-consistent work by a real medical investigator. Human-like writing here means a stable author voice built on correct science—not deliberate mistakes or promises to evade AI detection.
+
 [中文说明](README.zh-CN.md) | English
 
-A stage-gated lifecycle controller for medical manuscripts. It coordinates evidence, analysis, argument structure, author decisions, writing voice, journal adaptation, and submission readiness without turning the paper into an audit report.
+A stage-gated lifecycle controller for genuinely human-like medical manuscript writing. It does not treat “de-AI” as a final synonym-replacement pass. It reduces AI traces upstream by controlling when evidence is frozen, when the argument is built, when prose is drafted, and when the author's own language habits are applied.
 
 
 ## Why this Skill exists
